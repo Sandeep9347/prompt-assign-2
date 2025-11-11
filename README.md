@@ -1,8 +1,6 @@
 # prompt-assign-2
-
-# name:Sandeep kumar.A
-# Reg:2122220602215
-
+ name:Sandeep kumar.A
+ Reg:2122220602215
 # 1. Summarization
 
 Naive Prompt:
